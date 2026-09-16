@@ -29,7 +29,7 @@ On the device there are five solder points and two jumpers. Using the numbering 
 | 2 | USB data | One side of the USB data pair |
 | 3 | USB data | Other side of the USB data pair |
 | 4 | 5 V | USB/programming supply |
-| 5 | Reset (`RST`) | Pull to ground during power-up to enter the required boot mode |
+| 5 | Reset (`RST`) | Pull to ground during power-up to enter the required boot mode | NOTE THIS NEEDS TO BE A SHORT CABLE LONG CABLES LEAD TO ERROR 
 
 The numbering above is specific to the observed board orientation. Photograph and label the board before attaching wires, because the physical connector has no keyed plug to prevent reversal.
 
